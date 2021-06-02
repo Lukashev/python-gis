@@ -58,5 +58,5 @@ smart-open==1.10.0
 tables==3.6.1
 tqdm==4.45.0
 urbanaccess==0.2.0
-urllib3==1.25.8
+urllib3==1.26.5
 wrapt==1.12.1
